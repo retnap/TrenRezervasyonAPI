@@ -10,3 +10,6 @@ Bu proje, tren rezervasyonu için geliştirilmiş bir HTTP API'dir.
 ## Çalıştırma
 ```bash
 dotnet run
+
+Test
+Swagger UI: https://localhost:5001/swagger
